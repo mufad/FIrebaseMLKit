@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "679316531942",
+    "firebase_url": "https://imageprocessing-54872.firebaseio.com",
+    "project_id": "imageprocessing-54872",
+    "storage_bucket": "imageprocessing-54872.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:679316531942:android:839485d61af82f56",
+        "android_client_info": {
+          "package_name": "bd.com.mcc.facedetectionmlkit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "679316531942-612p6qi10oog11ldo1kko9p2o8hcepsj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "bd.com.mcc.facedetectionmlkit",
+            "certificate_hash": "2787949206cccad2a42ed3b89330e7a347792bdb"
+          }
+        },
+        {
+          "client_id": "679316531942-vm0hnbibv69au3leo47rflh5sjkscem6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbfnl9rxIvcFwFCaVeU-4i_jHAxYPxkHA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "679316531942-vm0hnbibv69au3leo47rflh5sjkscem6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
